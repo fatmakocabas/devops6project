@@ -1,1 +1,1 @@
-Devops git eğitim
+Devops git eğitim test
